@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-G-Vidic
 - 👀 I’m interested in Software Dev, Web Dev, and technology as a whole
-- 🌱 I’m currently studying Computer Science
+- 🌱 I just graduated with a degree in Computer Science
 - 📫 contact: davidgvidic@gmail.com
 - LinkedIn: https://www.linkedin.com/in/david-vidic-4838291b7/ 
 
